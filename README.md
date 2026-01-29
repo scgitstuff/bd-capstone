@@ -2,14 +2,14 @@
 
 boot.dev "Capstone Project"
 
-# Title
+## Title
 
-# Description
+## Description
 
-# Motivation
+## Motivation
 
-# Quick Start
+## Quick Start
 
-# Usage
+## Usage
 
-# Contributing
+## Contributing
